@@ -1,4 +1,4 @@
-
+#!/bin/zsh
 
 say "Never gonna give you up"
 say "Never gonna let you down"
