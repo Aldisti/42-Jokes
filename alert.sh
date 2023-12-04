@@ -1,3 +1,5 @@
+#!/bin/zsh
+
 say "This computer will turn off in..."
 
 for i in {0..5}
