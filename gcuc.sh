@@ -1,3 +1,5 @@
+#!/bin/zsh
+
 while : 
 do
 	say -v Amelie Hai lasciato il pc aperto, Emily
