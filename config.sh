@@ -1,3 +1,4 @@
+#!/bin/sh
 
 echo alias clear="cd .." > ~/.bash_aliases
 echo alias cd="bash ./alert.sh" > ~/.bash_aliases
