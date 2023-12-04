@@ -1,4 +1,4 @@
-
+#!/bin/zsh
 # This script needs Matrix.py
 
 amount=50
